@@ -1,0 +1,6 @@
+fastapi
+httpx
+numpy==1.19.3
+spacy
+spacy_streamlit
+en-core-med7-lg @ https://med7.s3.eu-west-2.amazonaws.com/en_core_med7_lg.tar.gz
