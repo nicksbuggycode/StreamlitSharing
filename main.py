@@ -8,7 +8,7 @@ from services import qtc_check, renal_check
 
 
 st.title("PharmDigi")
-st.header("Leveraging AI to improve patient safety")pip
+st.header("Leveraging AI to improve patient safety")
 st.text(
     "PharmDigi uses the open source med7 library to detect medication names within text.\n"
     "Use it to quickly answer questions about an entire medication list"
